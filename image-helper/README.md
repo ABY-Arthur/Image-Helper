@@ -1,13 +1,13 @@
-# 🖼️ Image Helper
+#  Image Helper
 
 A simple Python program for basic image editing tasks using **PIL (Pillow)** and **Tkinter**.
 
-## ✨ Features
-- 📏 Resize an image  
-- ✂️ Crop an image  
-- 🎨 Create a new image with custom color  
+##  Features
+-  Resize an image  
+- ✂ Crop an image  
+-  Create a new image with custom color  
 
-## 🚀 How to Run
+##  How to Run
 1. Install the required library:
    ```bash
    pip install pillow
